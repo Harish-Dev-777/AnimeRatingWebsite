@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+:root {
+  --background-color: #000000;
+  --color: rgb(255, 234, 0);
+  --border-color: rgb(255, 234, 0);
+  
+}

@@ -1,0 +1,38 @@
+.contact-wrapper {
+  width: 100%;
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.contact-heading {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin: 30px 200px ;
+}
+.contact-heading > h1 {
+  color: var(--color);
+}
+.contact-heading > p {
+  color: #fff;
+}
+.contact-info {
+  width: 100%;
+  padding: 40px;
+  /* background: radial-gradient(circle, #aaaaaa, #313131); */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 20px;
+  gap: 20px;
+}
+.contact-info > h3 {
+  color: var(--color);
+  margin-left: 20px;
+}
+.contact-info > p{
+  color: #fff;
+  margin-left: 20px;
+}
